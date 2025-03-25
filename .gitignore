@@ -75,3 +75,5 @@ logs/
 # Ignore OS-specific files
 ntuser.dat
 ntuser.dat.LOG*
+
+qgis-chat-frontend/.env
