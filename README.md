@@ -55,10 +55,11 @@ npm start
 
 Architecture
 
-![deepseek_mermaid_20250507_899a81](https://github.com/user-attachments/assets/1a8d8c62-d573-463c-8a17-d059054a3c8b)
 
 
 
+
+![20250507_899a81](https://github.com/user-attachments/assets/53538d51-f62f-4947-8c3b-072da0b00973)
 
 
 
